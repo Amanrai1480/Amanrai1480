@@ -169,16 +169,6 @@ Automated ETL suite for batch data ingestion from multiple sources into a data w
 
 ---
 
-
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Amanrai1480&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 | 🏅 Achievement | 📌 Details |
