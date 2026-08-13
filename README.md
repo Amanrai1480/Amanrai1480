@@ -21,11 +21,11 @@
 public class AmanRai extends Developer {
 
     private final String name        = "Aman Rai";
-    private final String role        = "Graduate Engineer Trainee – .NET Developer";
+    private final String role        = "Graduate Engineer Trainee – Java Developer";
     private final String company     = "MPSEDC (M.P. State Electronics Dev. Corp.), Bhopal";
-    private final String education   = "B.Tech IT – LNCT Bhopal | CGPA: 8.43/10";
+    private final String education   = "B.Tech IT – LNCT Bhopal | CGPA: 8.5/10";
     private final String[] expertise = {
-        "Backend Development (.NET / Spring Boot)",
+        "Backend Development (Java / Spring Boot / SQL)",
         "RESTful API Design & Architecture",
         "Data Engineering (Spark, Kafka, ETL)",
         "Database Design (MySQL, PostgreSQL)"
@@ -43,7 +43,7 @@ public class AmanRai extends Developer {
 }
 ```
 
-- 🏢 **Currently** at **MPSEDC Bhopal** as a **.NET Developer** — building backend for a large-scale government CMS
+- 🏢 **Currently** at **MPSEDC Bhopal** as a **Java Developer** — building backend for a large-scale government CMS
 - 📊 Former **Data Engineering Intern** at Netlink Software Group America Inc. — worked on Spark, Kafka & ETL pipelines
 - 🏆 **Top 10 Rank** in MPSEDC Recruitment Exam out of hundreds of candidates
 - ⭐ **HackerRank**: Java (4★) | Problem Solving (3★) | SQL (3★)
@@ -64,7 +64,6 @@ public class AmanRai extends Developer {
 ### 🔧 Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Play Framework](https://img.shields.io/badge/Play_Framework-92D130?style=for-the-badge&logo=scala&logoColor=black)
 
@@ -94,16 +93,16 @@ public class AmanRai extends Developer {
 <tr>
 <td width="50%">
 
-### 🏛️ Graduate Engineer Trainee — .NET Developer
+### 🏛️ Graduate Engineer Trainee — Java Developer
 **MPSEDC, Bhopal** | Oct 2025 – Present
 
-- 🔹 Backend dev for **SAMPADA 2.0**, a large-scale M.P. Govt CMS
+- 🔹 Backend dev for **SAMPADA 2.0**, a large-scale M.P. Govt 
 - 🔹 Designed RESTful APIs: case registration, appointments, documents
 - 🔹 Complex MySQL queries, stored procedures, data validation
 - 🔹 Layered architecture: Presentation → Business Logic → DAL
 - 🔹 Bug fixing, code optimization, enterprise-level application flow
 
-**Stack:** `C#` `.NET Framework` `ASP.NET Web API` `MySQL`
+**Stack:** `Spring Boot` `SQL` `Rest APIs` `MySQL`
 
 </td>
 <td width="50%">
@@ -155,40 +154,6 @@ Microservices-based e-commerce system with product catalog, cart, orders, and pa
 <tr>
 <td width="50%">
 
-### 📈 [RealStream — Real-Time Data Pipeline](https://github.com/Amanrai1480/RealStream-DataPipeline)
-End-to-end data pipeline ingesting, transforming, and storing high-volume streaming data.
-
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 📋 [TaskFlow — Project Management API](https://github.com/Amanrai1480/TaskFlow-DotNet)
-Enterprise-grade task/project management REST API built with layered .NET architecture.
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 [MediCare — Hospital Management System](https://github.com/Amanrai1480/MediCare-HMS)
-Full-stack hospital management: patient registration, appointments, doctor scheduling.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-</td>
-<td width="50%">
 
 ### 🌐 [DataWarehouse ETL Suite](https://github.com/Amanrai1480/DataWarehouse-ETL)
 Automated ETL suite for batch data ingestion from multiple sources into a data warehouse.
@@ -204,14 +169,7 @@ Automated ETL suite for batch data ingestion from multiple sources into a data w
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanrai1480&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanrai1480&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9"/>
-
-</div>
 
 <div align="center">
 
@@ -233,14 +191,6 @@ Automated ETL suite for batch data ingestion from multiple sources into a data w
 | 📜 SQL Certification | SQL Database – Infosys Springboard |
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanrai1480&theme=react-dark&hide_border=true&area=true&color=e94560&line=e94560&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
