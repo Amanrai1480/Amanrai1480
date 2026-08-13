@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Aman%20Rai&fontSize=70&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20Spring%20Boot%20%7C%20Data%20Engineering&descAlignY=55&descSize=18&descColor=a8dadc" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Graduate+Engineer+Trainee+%40+MPSEDC+Bhopal;Building+Enterprise+.NET+%7C+Spring+Boot+APIs;Apache+Spark+%7C+Kafka+%7C+ETL+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Graduate+Engineer+Trainee+%40+MPSEDC+Bhopal;Building+Enterprise+%7C+Spring+Boot+APIs;Apache+Spark+%7C+Kafka+%7C+ETL+Pipelines)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-rai)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanrai6266@gmail.com)
